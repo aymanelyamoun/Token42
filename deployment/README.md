@@ -9,7 +9,7 @@ cd deployment
 npm i
 ```
 
-# copy the contrcts from code
+# copy the contracts from code
 ```
 cp -r ../code/contracts ./contracts
 ```
